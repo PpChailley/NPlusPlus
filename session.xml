@@ -1,10 +1,10 @@
 <NotepadPlus>
     <Session activeView="1">
         <mainView activeIndex="0">
-            <File firstVisibleLine="0" xOffset="0" scrollWidth="945" startPos="1121" endPos="1121" selMode="0" lang="NLog" encoding="-1" filename="S:\Dropbox\dev\Visual Studio\Dominion\NLog.log" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1027" startPos="2195" endPos="2195" selMode="0" lang="Log4Net" encoding="-1" filename="S:\Dropbox\dev\Visual Studio\Dominion\NLog.log" />
         </mainView>
         <subView activeIndex="0">
-            <File firstVisibleLine="1" xOffset="0" scrollWidth="1008" startPos="843" endPos="843" selMode="0" lang="XML" encoding="-1" filename="E:\Users\gbd\AppData\Roaming\Notepad++\UserDefineLang.xml" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1099" startPos="735" endPos="735" selMode="0" lang="XML" encoding="-1" filename="E:\Users\gbd\AppData\Roaming\Notepad++\UserDefineLang.xml" />
         </subView>
     </Session>
 </NotepadPlus>
