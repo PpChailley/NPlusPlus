@@ -110,9 +110,6 @@
         <Replace name="-- LOCK TABLES" />
     </FindHistory>
     <History nbMaxFile="15">
-        <File filename="S:\Dropbox\Backup\sensitive\password-export-2011-10-01.txt" />
-        <File filename="E:\Users\gbd\Desktop\FileZilla.xml" />
-        <File filename="S:\Dropbox\dev\phpStorm\StBarth\htaccess" />
         <File filename="S:\Dropbox\dev\phpStorm\StBarth\.htaccess" />
         <File filename="S:\Dropbox\dev\phpStorm\buffer.sql" />
         <File filename="S:\Dropbox\dev\phpStorm\mysqldump_2015-05-26_19-17.sql" />
@@ -123,7 +120,10 @@
         <File filename="S:\Dropbox\dev\phpStorm\request 2.txt" />
         <File filename="S:\Dropbox\dev\phpStorm\request1.txt" />
         <File filename="S:\Dropbox\dev\Visual Studio\Dominion\Dominion\bin\x64\Debug\logs\2015-06-29.log" />
-        <File filename="E:\Users\gbd\AppData\Roaming\Notepad++\UserDefineLang.xml" />
-        <File filename="S:\Dropbox\dev\Visual Studio\Dominion\NLog.log" />
+        <File filename="E:\Users\gbd\AppData\Roaming\Notepad++\Compare.ini" />
+        <File filename="E:\Users\gbd\AppData\Roaming\Notepad++\session.xml" />
+        <File filename="E:\Users\gbd\AppData\Roaming\Notepad++\config.xml" />
+        <File filename="E:\Users\gbd\AppData\Roaming\Notepad++\langs.xml" />
+        <File filename="E:\Users\gbd\Desktop\NLog output" />
     </History>
 </NotepadPlus>
