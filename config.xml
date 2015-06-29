@@ -10,7 +10,7 @@
         <!-- 2 positions : "horizontal" or "vertical"-->
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <!-- For the attribut of position, 2 status : docked or undocked ; 2 status : "show" or "hide" -->
-        <GUIConfig name="UserDefineDlg" position="undocked">show</GUIConfig>
+        <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" size="4" replaceBySpace="no" />
         <!--App position-->
         <GUIConfig name="AppPosition" x="-1" y="165" width="1802" height="687" isMaximized="no" />
@@ -110,7 +110,6 @@
         <Replace name="-- LOCK TABLES" />
     </FindHistory>
     <History nbMaxFile="15">
-        <File filename="S:\Dropbox\dev\phpStorm\StBarth\.htaccess" />
         <File filename="S:\Dropbox\dev\phpStorm\buffer.sql" />
         <File filename="S:\Dropbox\dev\phpStorm\mysqldump_2015-05-26_19-17.sql" />
         <File filename="S:\Dropbox\dev\phpStorm\new  8.txt" />
@@ -125,5 +124,6 @@
         <File filename="E:\Users\gbd\AppData\Roaming\Notepad++\config.xml" />
         <File filename="E:\Users\gbd\AppData\Roaming\Notepad++\langs.xml" />
         <File filename="E:\Users\gbd\Desktop\NLog output" />
+        <File filename="E:\Users\gbd\AppData\Roaming\Notepad++\UserDefineLang.xml" />
     </History>
 </NotepadPlus>

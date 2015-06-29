@@ -1,15 +1,15 @@
 <NotepadPlus>
-     <UserLang name="NLog" ext="log">
+    <UserLang name="NLog" ext="log">
         <Settings>
             <Global caseIgnored="no" escapeChar=":" />
-            <TreatAsSymbol comment="no" commentLine="yes" />
+            <TreatAsSymbol comment="no" commentLine="no" />
             <Prefix words1="no" words2="no" words3="no" words4="no" />
         </Settings>
         <KeywordLists>
             <Keywords name="Delimiters">[&apos;0]&apos;0</Keywords>
             <Keywords name="Folder+"></Keywords>
             <Keywords name="Folder-"></Keywords>
-            <Keywords name="Operators">-</Keywords>
+            <Keywords name="Operators">\</Keywords>
             <Keywords name="Comment">1/* 2*/ 0// 0</Keywords>
             <Keywords name="Words1">FATAL ERROR WARN</Keywords>
             <Keywords name="Words2">INFO</Keywords>
